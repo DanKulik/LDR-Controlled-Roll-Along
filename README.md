@@ -4,7 +4,7 @@ LDR Controller For Pygame Using An Arduino
 
 Roll Along is a arcade style game created using Pygame. This game is really simple with currently only three components as its basis. The user is a red ball that has to navigate a randomly generated maze to get to the other side of the screen. However smaller blue balls (streamers) move vertically and horizontally that will set you back to restart if you interact with them. Walls of the maze also restrict your movements to apply extra difficulty.
 
-This game has been edited to make use of LDRs as game controllers, using PyFirmata and an Arduino (Note* set the IDE to Standard Firmata(found in IDE examples) to run the Firmata protocol used for PyFirmata). This was done as an optional project for those who wish to try out PyFirmata or as a project example using an Arduino as an alternate game controller device. Circuit diagrams have been included, however the analog pins have been adjusted one up in the script.
+This game has been edited to make use of LDRs as game controllers, using PyFirmata and an Arduino (Note* set the IDE to Standard Firmata(found in IDE examples) to run the Firmata protocol used for PyFirmata). This was done as an optional project for those who wish to try out PyFirmata or as a project example using an Arduino as an alternate game controller device. Circuit diagrams have been included, however the analog pins have been adjusted one up in the script. Also digital pins have been added as outputs for wins and losses using LED lights. Please feel free to edit this to your liking...
 
 When running the script you will find that three folders will be created in the directory the script is in.
 
