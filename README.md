@@ -26,6 +26,6 @@ All inside game changes by the user should be updated immediately with your diff
 
 All in all I hope that you enjoy the gameplay and interact by adding your own favorite game music and backgrounds (however black and white images are preferable. In my experience color images seem to become too distracting)
 
-If you notice any bugs or possible changes that could/should be added or fixed please feel free to notify me Severian-desu-ga.
+If you notice any bugs or possible changes that could/should be added or fixed please feel free to notify me DanKulik.
 
 Much appriciated for your patronage, and have free fun with Roll Along!
